@@ -2,8 +2,8 @@
 Aircraft measurements and simulations of biomass buring aerosols over West Africa
 
 # Author
-Katy Wiltshire
-John Smith
+Katy Wiltshire, Cranfield University
+John Smith, University of Elsewhere
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa
