@@ -1,8 +1,9 @@
 # Title
-Ageing of biomass buring aerosols over West Africa
+Simulations of biomass buring aerosols over West Africa
 
 # Author
 Katy Wiltshire
+John Smith
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa
